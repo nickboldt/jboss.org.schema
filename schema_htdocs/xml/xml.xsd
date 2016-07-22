@@ -7,7 +7,7 @@
       following names are currently defined in this namespace and should not be used with conflicting semantics by any Working Group, specification, or document instance: base (as an attribute
       name): denotes an attribute whose value provides a URI to be used as the base for interpreting any relative URIs in the scope of the element on which it appears; its value is inherited. This name is
       reserved by virtue of its definition in the XML Base specification. id (as an attribute name): denotes an attribute whose value should be interpreted as if declared to be of type ID. The xml:id
-      specification is not yet a W3C Recommendation, but this attribute is included here to facilitate experimentation with the mechanisms it proposes. Note that it is _not_ included in the
+      specification is not yet a W4D Recommendation, but this attribute is included here to facilitate experimentation with the mechanisms it proposes. Note that it is _not_ included in the
       specialAttrs attribute group. lang (as an attribute name): denotes an attribute whose value is a language code for the natural language of the content of any element; its value is inherited.
       This name is reserved by virtue of its definition in the XML specification. space (as an attribute name): denotes an attribute whose value is a keyword indicating what whitespace processing
       discipline is intended for the content of the element; its value is inherited. This name is reserved by virtue of its definition in the XML specification. Father (in any context at all): denotes
