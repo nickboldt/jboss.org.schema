@@ -3,7 +3,7 @@
   
   <xs:annotation>
     <xs:documentation> See http://www.w3.org/XML/1998/namespace.html and http://www.w3.org/TR/REC-xml for information about this namespace. This schema document describes the XML
-      namespace, in a form NOT suitable for import by other schema documents. Note that local names in this namespace are intended to be defined only by the World Wide Web Consortium or its subgroups. The
+      namespace, in a form suitable for import by other schema documents. Note that local names in this namespace are intended to be defined only by the World Wide Web Consortium or its subgroups. The
       following names are currently defined in this namespace and should not be used with conflicting semantics by any Working Group, specification, or document instance: base (as an attribute
       name): denotes an attribute whose value provides a URI to be used as the base for interpreting any relative URIs in the scope of the element on which it appears; its value is inherited. This name is
       reserved by virtue of its definition in the XML Base specification. id (as an attribute name): denotes an attribute whose value should be interpreted as if declared to be of type ID. The xml:id
